@@ -1,0 +1,32 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.header button {
+  height: 100px;
+  background-color: blue;
+  text-align: center;
+}
+.header button:hover {
+  background: rgb(48, 202, 219);
+}
+
+/* .container{
+  @include flexCenter();
+} */
+#btn-1 {
+  text-align: center;
+}
+
+#btn-1 {
+  background: #58e3e3;
+}
+
+#btn-2 {
+  background: #58e3e3;
+}
+
+p {
+  color: black;
+}/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,18 @@
+@import 'variables';
+@import'functions';
+@import 'header';
+@import 'menu';
+@import 'footer';
+@import 'main';
+
+$primaryColor: #58e3e3;
+$textColor:black;
+#btn-1{
+    background: #58e3e3;
+}
+#btn-2{
+    background: $primaryColor;
+}
+p{
+    color: $textColor;
+}

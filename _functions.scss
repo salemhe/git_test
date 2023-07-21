@@ -1,0 +1,10 @@
+@mixin buttonProps(){
+  height: 65px;
+  padding: 30px 0;
+  margin: 20px;
+  background-color: $buttonColor;
+  border: 5px solid $buttonBorderColor;
+}
+@mixin flexCenter(){
+   
+}
